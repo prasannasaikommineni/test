@@ -17,4 +17,9 @@
         <grapheme>😀</grapheme>
         <alias>test emoji</alias>
     </lexeme>
+
+    <lexeme>
+    <grapheme>Anke</grapheme>
+    <phoneme>ˈɑːŋkə</phoneme>
+</lexeme>
 </lexicon>
