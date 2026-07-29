@@ -3,18 +3,18 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-  alphabet="ipa"
+  alphabet="x-microsoft-sapi"
   xml:lang="en-US">
   <lexeme>
     <grapheme>Anke</grapheme>
     <grapheme>anke</grapheme>
     <grapheme>Ank</grapheme>
     <grapheme>ank</grapheme>
-    <phoneme>ˈæŋki</phoneme>
+    <phoneme>AE NG k iy</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Anke's</grapheme>
     <grapheme>anke's</grapheme>
-    <phoneme>ˈæŋkiz</phoneme>
+    <phoneme>AE NG k iy z</phoneme>
   </lexeme>
 </lexicon>
