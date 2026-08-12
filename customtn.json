@@ -1,0 +1,17 @@
+{
+    "RuleSetList": [
+            {
+                    "SupportLanguage": [
+                            "en-us"
+                    ],
+                    "RuleList": [
+                            {
+                                "SearchPattern": "(?:\\[\\d+\\])+",
+                                "ReplacePattern": " ",
+                                "Comment": "remove citation (like [1] [2] .. [10]) "
+                            }
+                    ]
+            }
+    ]
+}
+
