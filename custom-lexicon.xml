@@ -9,6 +9,10 @@
         <grapheme>BTW</grapheme>
         <alias>By the way</alias>
     </lexeme>
+      <lexeme>
+    <grapheme>ITSOE</grapheme>
+    <phoneme>aɪ tiː ɛs oʊ iː</phoneme>
+      </lexeme>
     <lexeme>
         <grapheme>Benigni</grapheme>
         <phoneme>bɛˈniːnji</phoneme>
